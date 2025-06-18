@@ -14,7 +14,8 @@ print(pyautogui.position())
 
 # 3. aplicação para ver a posição do cursor em tempo real
 """
-- Digite o comando no terminal  o comando: python (para abri o python no terminal)
+- Digite no terminal  o comando: 
+>> python (para abri o python no terminal)
 
 >> from pyautogui import mouseInfo
 mouseInfo()
